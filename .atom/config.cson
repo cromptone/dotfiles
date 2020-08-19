@@ -1,0 +1,24 @@
+"*":
+  "atom-beautify":
+    clj:
+      beautify_on_save: true
+  "autosave-onchange":
+    delay: 3000
+  core:
+    telemetryConsent: "no"
+  editor:
+    fontSize: 13
+  "exception-reporting":
+    userId: "2be463d9-dfe6-42a7-9c45-c7997142cb24"
+  "format-shell":
+    simplify: true
+  latex:
+    buildOnSave: true
+  "lisp-paredit": {}
+  welcome:
+    showOnStartup: false
+".bibtex.text":
+  editor:
+    autoIndentOnPaste: false
+    softWrap: true
+    softWrapAtPreferredLineLength: false
